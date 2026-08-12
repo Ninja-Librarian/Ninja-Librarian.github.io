@@ -30,7 +30,7 @@ My background in librarianship has given me extensive experience with research, 
 I'm currently seeking opportunities in:
 
 - Data Analysis
-- Reporting Analysis
+- Reporting Analyst
 - Business Intelligence
 - Institutional Research
 - Higher Education Analytics
