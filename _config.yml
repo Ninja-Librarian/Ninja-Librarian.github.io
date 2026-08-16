@@ -3,3 +3,8 @@ description: Data analyst portfolio showcasing projects in SQL, Python, Tableau,
 author: Evan Greenwood
 
 theme: jekyll-theme-minimal
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
