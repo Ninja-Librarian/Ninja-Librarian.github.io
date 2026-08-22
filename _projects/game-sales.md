@@ -2,32 +2,18 @@
 layout: project
 title: Game Sales Analysis
 description: Analysis of global video game sales trends, regional markets, and leading publishers.
+
+tools:
+  - Excel
+  - Pivot Tables
+  - Data Visualization
+
+skills:
+  - Data Analysis
+  - Market Analysis
+  - Trend Analysis
+  - Competitor Analysis
 ---
-
-# Game Sales Analysis
-
-## Project Overview
-
-An analysis of historical video game sales data to identify trends in game popularity, regional markets, and leading competitors.
-
-## Business Questions
-
-- Who are the key competitors in different markets?
-- How have video game sales changed over time?
-- How do sales trends differ between geographic regions?
-
-## Data
-
-The analysis used historical video game sales data covering 1980–2016.
-
-**Source:** [VGChartz](https://www.vgchartz.com/)
-
-## Tools
-
-- Microsoft Excel
-- Microsoft PowerPoint
-- Pivot tables
-- Data visualization
 
 ## Project Overview
 
@@ -57,7 +43,7 @@ The dataset was sourced from VGChartz.
 
 The analysis examined historical sales trends across geographic regions and compared the performance of major publishers.
 
-Excel was used to organize and analyze the data, including the use of pivot tables and visualizations to identify trends and compare markets.
+Excel was used to organize and analyze the data, including pivot tables and visualizations to identify trends and compare markets.
 
 ## Key Findings
 
@@ -89,5 +75,5 @@ These findings demonstrate the importance of examining regional trends rather th
 
 ## Project Resources
 
-- Full project presentation
-- Original data source
+- [Full Project Presentation](https://docs.google.com/presentation/d/15LEC1ZUIS-IA4kyUSkkocUCKjrRV-gdd/edit?usp=drive_link&ouid=116770463771739110199&rtpof=true&sd=true)
+- [Original Data Source](https://www.vgchartz.com/)
