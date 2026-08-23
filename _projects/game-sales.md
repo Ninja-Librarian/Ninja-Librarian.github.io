@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Game Sales Analysis
-description: Analysis of global video game sales trends, regional markets, and leading publishers.
+description: Analysis of historical video game sales trends, regional markets, and leading competitors.
 
 tools:
   - Excel
@@ -15,11 +15,6 @@ skills:
   - Competitor Analysis
 ---
 
-## Project Links
-
-- [Full Project Presentation](https://docs.google.com/presentation/d/15LEC1ZUIS-IA4kyUSkkocUCKjrRV-gdd/edit?usp=drive_link&ouid=116770463771739110199&rtpof=true&sd=true)
-- [Original Data Source](https://www.vgchartz.com/)
-  
 ## Project Overview
 
 This project analyzed historical video game sales data from 1980–2016 to identify changes in regional markets, game popularity, and the performance of major competitors.
@@ -42,43 +37,57 @@ The analysis sought to answer three primary questions:
 
 The project used historical video game sales data covering the period from 1980 through 2016.
 
-The dataset was sourced from VGChartz.
+The dataset was sourced from VGChartz, a video game sales and market data resource.
 
-## Methodology
+**Data Source:**  
+[VGChartz](https://www.vgchartz.com/)
 
-The analysis examined historical sales trends across geographic regions and compared the performance of major publishers.
+## Tools & Methods
 
-Excel was used to organize and analyze the data, including pivot tables and visualizations to identify trends and compare markets.
+The analysis was completed using Microsoft Excel.
 
-## Key Findings
+Key techniques included:
+
+- Pivot tables
+- Data organization and filtering
+- Regional sales comparisons
+- Trend analysis
+- Market comparisons
+- Data visualization
+
+## Analysis
+
+The analysis examined video game sales across multiple geographic markets and over time.
 
 ### Regional Markets
 
-Europe had the highest physical game sales in the current market.
+North America, Europe, and Japan were examined separately to identify differences in sales patterns and market performance.
 
-European sales were also trending upward, suggesting continued growth potential in the region.
+### Sales Trends Over Time
 
-North America had historically been the largest market, but sales were experiencing a downturn.
+The dataset was analyzed across multiple years to identify changes in video game sales and popularity.
 
-Japan experienced a decline beginning in the late 1990s and had not recovered.
+### Competitor Analysis
 
-### Leading Competitors
+The project compared sales performance across games and publishers to identify leading competitors within different markets.
 
-Nintendo was the leading competitor across the North American, European, and Japanese markets.
+## Key Skills Demonstrated
 
-Electronic Arts and Activision were also major competitors.
+This project demonstrates my ability to:
 
-## Conclusions
+- Clean and organize data for analysis
+- Use Excel and pivot tables to explore datasets
+- Compare performance across geographic markets
+- Identify trends in historical data
+- Analyze competitors and market performance
+- Communicate analytical findings through data visualization
 
-The analysis did not support the assumption that video game sales had remained stable across regions.
+## Project Presentation
 
-Instead, regional market shares had changed over time.
+The complete analysis and findings are available in the project presentation.
 
-Europe showed potential for continued growth, while North America remained the largest market but was experiencing slower performance.
+**[View Full Presentation](https://docs.google.com/presentation/d/15LEC1ZUIS-IA4kyUSkkocUCKjrRV-gdd/edit?usp=sharing&ouid=116770463771739110199&rtpof=true&sd=true)**
 
-These findings demonstrate the importance of examining regional trends rather than treating the video game market as a single uniform market.
+## Data Source
 
-## Project Resources
-
-- [Full Project Presentation](https://docs.google.com/presentation/d/15LEC1ZUIS-IA4kyUSkkocUCKjrRV-gdd/edit?usp=drive_link&ouid=116770463771739110199&rtpof=true&sd=true)
-- [Original Data Source](https://www.vgchartz.com/)
+**[VGChartz — Video Game Sales Data](https://www.vgchartz.com/)**
