@@ -15,6 +15,11 @@ skills:
   - Competitor Analysis
 ---
 
+## Project Links
+
+- [Full Project Presentation](https://docs.google.com/presentation/d/15LEC1ZUIS-IA4kyUSkkocUCKjrRV-gdd/edit?usp=drive_link&ouid=116770463771739110199&rtpof=true&sd=true)
+- [Original Data Source](https://www.vgchartz.com/)
+  
 ## Project Overview
 
 This project analyzed historical video game sales data from 1980–2016 to identify changes in regional markets, game popularity, and the performance of major competitors.
