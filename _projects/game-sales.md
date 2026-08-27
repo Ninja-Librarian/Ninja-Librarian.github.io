@@ -15,7 +15,11 @@ skills:
   - Competitor Analysis
 ---
 
-## JEKYLL TEST
+<div style="background:red;color:white;padding:30px;font-size:32px;font-weight:bold;">
+GAME SALES FILE TEST
+</div>
+
+## Project Overview
 
 This project analyzed historical video game sales data from 1980–2016 to identify changes in regional markets, game popularity, and the performance of major competitors.
 
