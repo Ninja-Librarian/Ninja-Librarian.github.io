@@ -1,46 +1,11 @@
 ---
+layout: default
 ---
 
-<p style="background: red; color: white; padding: 20px; font-size: 24px;">
-PROJECT LAYOUT TEST
-</p>
+<h1>PROJECT LAYOUT TEST</h1>
 
-<article class="project">
+<p>If you can see this, the custom project layout is working.</p>
 
-  <header class="project-header">
-
-    <h1>{{ page.title }}</h1>
-
-    {% if page.description %}
-      <p class="project-description">
-        {{ page.description }}
-      </p>
-    {% endif %}
-
-    {% if page.tools %}
-      <div class="project-meta">
-        <strong>Tools:</strong>
-
-        {% for tool in page.tools %}
-          <span class="project-tag">{{ tool }}</span>
-        {% endfor %}
-      </div>
-    {% endif %}
-
-    {% if page.skills %}
-      <div class="project-meta">
-        <strong>Skills:</strong>
-
-        {% for skill in page.skills %}
-          <span class="project-tag">{{ skill }}</span>
-        {% endfor %}
-      </div>
-    {% endif %}
-
-  </header>
-
-  <div class="project-content">
-    {{ content }}
-  </div>
-
-</article>
+<div>
+  {{ content }}
+</div>
