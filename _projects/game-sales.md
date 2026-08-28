@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Game Sales Analysis
 description: Analysis of historical video game sales trends, regional markets, and leading competitors.
 
@@ -14,10 +14,6 @@ skills:
   - Trend Analysis
   - Competitor Analysis
 ---
-
-<div style="background:red;color:white;padding:30px;font-size:32px;font-weight:bold;">
-GAME SALES FILE TEST
-</div>
 
 ## Project Overview
 
