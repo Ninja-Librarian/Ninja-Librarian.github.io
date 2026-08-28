@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: default
 title: Game Sales Analysis
 description: Analysis of historical video game sales trends, regional markets, and leading competitors.
 
