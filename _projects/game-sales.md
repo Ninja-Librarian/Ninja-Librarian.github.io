@@ -4,8 +4,6 @@ title: Game Sales Analysis
 description: Analysis of global video game sales trends, regional markets, and leading publishers.
 ---
 
-# Game Sales Analysis
-
 **Tools:** Microsoft Excel · Pivot Tables · Data Visualization
 
 **Skills:** Data Analysis · Market Analysis · Trend Analysis · Regional Comparison · Competitor Analysis
