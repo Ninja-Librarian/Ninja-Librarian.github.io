@@ -5,8 +5,6 @@ description: Analysis of influenza mortality patterns to forecast where and when
 
 ---
 
-# Influenza Staffing Forecast
-
 **Tools:** Tableau · Excel
 
 **Skills:** Data Cleaning · Data Integration · Data Transformation · Statistical Analysis · Data Visualization · Forecasting · Data Storytelling
