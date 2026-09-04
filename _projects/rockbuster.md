@@ -2,6 +2,7 @@
 layout: default
 title: Rockbuster SQL Analysis
 description: SQL analysis of customer and payment data to identify priority markets and inform the launch strategy for a new streaming video service.
+order: 3
 ---
 
 **Tools:** SQL · Tableau
