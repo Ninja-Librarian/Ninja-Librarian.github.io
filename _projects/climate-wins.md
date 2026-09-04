@@ -2,6 +2,7 @@
 layout: default
 title: Climate Wins Weather Prediction
 description: Machine learning project exploring historical European weather patterns and approaches for modeling future climate conditions and regional vulnerability.
+order: 6
 ---
 
 **Methods:** Machine Learning · Time-Series Analysis · Clustering · Dimensionality Reduction · Deep Learning
