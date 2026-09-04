@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Evan Greenwood | Data Analyst
-description: Data Analyst with a background in academic librarianship, research, and information management.
+title: Evan Greenwood
 ---
 
 # Evan Greenwood
