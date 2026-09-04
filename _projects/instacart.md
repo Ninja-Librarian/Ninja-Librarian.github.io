@@ -2,6 +2,7 @@
 layout: default
 title: Instacart Grocery Basket Analysis
 description: Python analysis of Instacart customer and purchasing data to identify shopping patterns, customer demographics, and opportunities for targeted marketing.
+order: 4
 ---
 
 **Tools:** Python · Jupyter Notebook · Pandas
