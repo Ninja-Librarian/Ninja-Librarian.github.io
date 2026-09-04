@@ -7,7 +7,9 @@ title: Projects
 
 A selection of data analysis projects demonstrating skills in SQL, Python, Tableau, Excel, data visualization, and statistical analysis.
 
-{% for project in site.projects %}
+{% assign projects = site.projects | sort: "order" %}
+
+{% for project in projects %}
 
 ## {{ project.title }}
 
