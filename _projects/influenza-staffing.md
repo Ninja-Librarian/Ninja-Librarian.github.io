@@ -2,7 +2,7 @@
 layout: default
 title: Influenza Staffing Forecast
 description: Analysis of influenza mortality patterns to forecast where and when medical staffing resources would be most needed.
-
+order: 2
 ---
 
 **Tools:** Tableau · Excel
