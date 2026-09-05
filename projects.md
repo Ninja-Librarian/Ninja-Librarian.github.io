@@ -5,7 +5,7 @@ title: Projects
 
 # Data Analytics Projects
 
-A selection of data analysis projects demonstrating skills in SQL, Python, Tableau, Excel, data visualization, and statistical analysis.
+A selection of data analysis projects demonstrating experience with SQL, Python, Tableau, Excel, statistical analysis, and machine learning.
 
 {% assign projects = site.projects | sort: "order" %}
 
