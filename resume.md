@@ -94,34 +94,38 @@ Explored approximately 60 years of historical European weather data and machine-
 ## Professional Experience
 
 ### E-Resources and Access Services Librarian
+
 **OSU-OKC** · January 2023 – Present
 
-- Manage and coordinate electronic resources and access services.
-- Manage two part-time employees.
-- Manage the library's interlibrary loan program.
-- Assist with end-of-fiscal-year statistics gathering.
-- Provide research assistance and answer information requests.
+- Manage and coordinate electronic resources and access services, ensuring accurate and reliable access to information.
+- Gather and maintain library statistics to support reporting and operational decision-making.
+- Manage two part-time employees and coordinate day-to-day workflows.
+- Manage the library’s interlibrary loan program and maintain accurate information across systems.
+- Provide research assistance and respond to information requests by identifying, evaluating, and communicating relevant information.
 
 ### Fulfillment Auditor
+
 **ADFITECH** · October 2020 – December 2022
 
-- Reviewed loan documents for completeness and accuracy according to applicable policies.
-- Verified the accuracy of information contained in mortgage documents.
+- Reviewed loan documents for completeness and accuracy according to applicable policies and requirements.
+- Verified the accuracy and consistency of information contained in mortgage documents.
 - Verified that information in computer systems was current and accurate.
-- Trained new fulfillment auditors.
-- Reviewed trainee files for accuracy and completeness.
+- Trained new fulfillment auditors on procedures and quality standards.
+- Reviewed trainee files for accuracy and completeness and provided feedback as needed.
 
 ### Evening Reference Librarian
+
 **Southern Nazarene University** · September 2019 – October 2020
 
-- Responded to student inquiries and researched answers to information requests.
-- Managed student workers.
+- Responded to student inquiries by researching information and communicating clear, relevant answers.
+- Managed student workers and coordinated evening library operations.
 
 ### Student Assistant
+
 **OU Health Sciences Center Library** · September 2018 – September 2019
 
-- Assisted with maintaining the library collection.
-- Answered questions from students and the public at the front desk.
+- Assisted with maintaining and organizing the library collection.
+- Answered questions from students and the public and provided assistance with information requests.
 
 ---
 
