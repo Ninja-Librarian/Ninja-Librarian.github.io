@@ -148,12 +148,12 @@ Research Methods · Online Information Retrieval · Databases · Information Man
 
 ---
 
-## Portfolio
+## Portfolio & Links
 
-[View My Projects](/projects)
+- [View My Projects](/projects)
 
-[View My GitHub](https://github.com/Ninja-Librarian)
+- [View My GitHub](https://github.com/Ninja-Librarian)
 
-[View My Tableau Portfolio](https://public.tableau.com/app/profile/evan.greenwood/favorites)
+- [View My Tableau Portfolio](https://public.tableau.com/app/profile/evan.greenwood/favorites)
 
 ---
