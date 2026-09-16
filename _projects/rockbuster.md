@@ -145,9 +145,12 @@ Finally, combining SQL analysis with Tableau visualization demonstrated how tech
 
 ## Project Repository
 
-The SQL queries and project files are available in my GitHub portfolio.
+The SQL queries and project files are available on GitHub.
+
+[View the Rockbuster SQL Project on GitHub](https://github.com/Ninja-Librarian/SQL_RockbusterStealth_Analysis)
 
 ## Full Tableau Presentation
 
-The full Rockbuster Stealth LLC presentation is available in my Tableau portfolio.
-https://public.tableau.com/app/profile/evan.greenwood/favorites 
+The complete Rockbuster Stealth LLC presentation is available on Tableau.
+
+[View the Rockbuster Tableau Presentation](https://public.tableau.com/app/profile/evan.greenwood/viz/3_10Presentation_17513081928120/RockbusterStealthPresentation)
