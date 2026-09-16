@@ -11,54 +11,57 @@ Data Analyst with a background in academic librarianship, research, and informat
 
 I use **SQL, Python, Tableau, and Excel** to analyze data, identify patterns and trends, and communicate insights through clear visualizations.
 
-[View My Projects](/projects)
+[View My Projects →](/projects)
 
-[View My GitHub](https://github.com/Ninja-Librarian)
+[View My GitHub →](https://github.com/Ninja-Librarian)
 
-[View My Tableau Portfolio](https://public.tableau.com/app/profile/evan.greenwood/favorites)
-
----
-
-## About Me
-
-I’m an academic librarian transitioning into a career in data analytics.
-
-I recently completed the CareerFoundry Data Analytics Program, where I developed experience in data analysis, visualization, SQL, Python, and Tableau through hands-on projects.
-
-My background in librarianship has given me extensive experience with **research, information organization, problem solving, instruction, and communicating complex information to different audiences**. I bring those skills together with my growing technical experience to approach data questions systematically and communicate results clearly.
-
-I’m currently seeking opportunities in:
-
-- Data Analysis
-- Reporting Analysis
-- Business Intelligence
-- Institutional Research
-- Higher Education Analytics
+[View My Tableau Portfolio →](https://public.tableau.com/app/profile/evan.greenwood/favorites)
 
 ---
 
-## Technical Skills
+## What I Bring
 
-**Data Analysis:** SQL, Python, Excel
+I combine analytical training with a professional background focused on research, information organization, problem solving, and communicating complex information clearly.
 
-**Data Visualization:** Tableau
+My data analytics training includes hands-on experience with:
 
-**Python:** Pandas, NumPy, Matplotlib, Seaborn
-
-**Other:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling, Statistical Analysis, Forecasting, Machine Learning
-
----
-
-## Portfolio Highlights
-
-My portfolio demonstrates experience using data to investigate questions, identify patterns, and communicate insights.
-
-- SQL analysis and relational data
-- Python-based exploratory and statistical analysis
-- Tableau dashboards and data storytelling
+- SQL and relational data
+- Python-based data analysis
 - Excel analysis and visualization
-- Forecasting and time-series analysis
-- Machine-learning techniques
-- Business recommendations based on data
+- Tableau dashboards and data storytelling
+- Statistical analysis and forecasting
+- Machine learning techniques
 
-[Explore My Projects →](/projects)
+---
+
+## Featured Projects
+
+My portfolio includes projects covering data analysis, visualization, statistical analysis, and machine learning.
+
+### Game Sales Analysis
+
+Analyzed global video game sales to identify regional market trends, sales patterns over time, and publisher performance.
+
+[View Case Study →](/projects/game-sales/)
+
+### Influenza Staffing Forecast
+
+Analyzed historical influenza mortality data to identify geographic and seasonal patterns and determine where and when temporary medical staffing resources would be most needed.
+
+[View Case Study →](/projects/influenza-deaths/)
+
+### Rockbuster SQL Analysis
+
+Used SQL to analyze customer, payment, and geographic data and identify priority markets for a fictional company's planned streaming service.
+
+[View Case Study →](/projects/rockbuster-sql/)
+
+[Explore All Projects →](/projects)
+
+---
+
+## Let's Connect
+
+I'm currently seeking opportunities in data analysis, reporting, business intelligence, institutional research, and related analytical roles.
+
+[View My Resume →](/resume)
