@@ -157,7 +157,3 @@ Research Methods · Online Information Retrieval · Databases · Information Man
 [View My Tableau Portfolio](https://public.tableau.com/app/profile/evan.greenwood/favorites)
 
 ---
-
-## Download Resume
-
-[Download Resume PDF](YOUR-RESUME-LINK)
