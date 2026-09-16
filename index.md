@@ -48,13 +48,13 @@ Analyzed global video game sales to identify regional market trends, sales patte
 
 Analyzed historical influenza mortality data to identify geographic and seasonal patterns and determine where and when temporary medical staffing resources would be most needed.
 
-[View Case Study →](/projects/influenza-deaths/)
+[View Case Study →](/projects/influenza-staffing/) 
 
 ### Rockbuster SQL Analysis
 
 Used SQL to analyze customer, payment, and geographic data and identify priority markets for a fictional company's planned streaming service.
 
-[View Case Study →](/projects/rockbuster-sql/)
+[View Case Study →](/projects/rockbuster/)
 
 [Explore All Projects →](/projects)
 
