@@ -13,41 +13,43 @@ order: 3
 
 Rockbuster Stealth LLC is a fictional movie rental company preparing to launch a new streaming video service.
 
-The objective of this project was to use customer and payment data to identify geographic markets that could be prioritized during the streaming launch.
+The dataset for this project was created and provided by CareerFoundry to simulate a business analysis scenario.
 
-The analysis examined customer distribution at the country and city levels, as well as payment totals for individual customers, to identify markets with both substantial customer presence and customer value.
+The goal of the project was to analyze Rockbuster's customer and payment data to identify geographic markets and customer segments that could help inform the company's streaming launch strategy.
 
 ## Business Questions
 
 The analysis focused on three primary questions:
 
 1. Where should Rockbuster initially focus its new streaming service?
-2. Which countries and cities have the largest customer populations?
+2. Which countries and cities have the largest customer bases?
 3. Where are Rockbuster's highest-value customers located?
 
 ## Data
 
-The analysis used Rockbuster's relational business data, including:
+The analysis used the fictional Rockbuster dataset provided by CareerFoundry.
+
+The available data included:
 
 - Film inventory
 - Customer information
 - Payment information
 
-The available data also provided information about the characteristics of Rockbuster's rental business, including an average rental duration of 4.9 days, an average rental rate of $2.98, and an average film length of 115 minutes.
+Some overall characteristics of the rental business included an average rental duration of 4.9 days, an average rental rate of $2.98, and an average film length of 115 minutes.
 
 ## Tools & Methods
 
-SQL was used to query, combine, and analyze the underlying relational data.
+SQL was the primary analytical tool used to explore the relational business data.
 
 The analysis included:
 
 - Customer counts by country
 - Customer counts by city
 - Payment totals by customer
-- Geographic comparisons of customer markets
+- Geographic comparison of customer markets
 - Identification of high-volume and high-value markets
 
-Tableau was then used to visualize the results and make geographic and customer patterns easier to interpret.
+Tableau was then used to communicate the results through visualizations, making geographic and customer patterns easier to identify.
 
 ## Analysis
 
@@ -55,7 +57,7 @@ Tableau was then used to visualize the results and make geographic and customer 
 
 India had the highest number of Rockbuster customers, followed by China and the United States.
 
-The five largest customer markets identified in the analysis were:
+The top five customer markets were:
 
 1. India — 35,940 customers
 2. China — 31,747 customers
@@ -63,15 +65,15 @@ The five largest customer markets identified in the analysis were:
 4. Japan — 18,569 customers
 5. Mexico — 17,970 customers
 
-The customer base was distributed across multiple international markets, indicating that Rockbuster's streaming strategy would need to account for different geographic and linguistic markets.
+The customer base was distributed across multiple international markets. This indicated that Rockbuster's streaming strategy would need to account for geographic differences and the international nature of its customer base.
 
 ### Customer Distribution by City
 
-The city-level analysis showed a particularly strong concentration of customers in India.
+The city-level analysis revealed a particularly strong presence in India.
 
 Five of the ten cities with the highest customer counts were located in India.
 
-Examining the data at the city level provided additional context beyond country-level customer totals and helped identify specific markets that could be considered for an initial streaming launch.
+This concentration provided another indication that Indian cities could represent important markets for the launch of the streaming service.
 
 ### High-Value Customers
 
@@ -79,67 +81,71 @@ The analysis also examined customers based on their total payments.
 
 Three of the five highest-paying customers were located in India.
 
-This finding complements the country- and city-level analysis by showing that India was represented not only among the largest customer markets, but also among the locations of Rockbuster's highest-value individual customers.
+Examining both customer volume and individual customer value provided a broader view of potential priority markets than either measure alone.
 
 ## Key Findings
 
-The analysis identified several patterns relevant to Rockbuster's planned streaming service:
+The analysis identified several important patterns:
 
 - India had the largest customer population among the countries analyzed.
 - Five of the ten cities with the highest customer counts were located in India.
 - Three of the five highest-paying customers were located in India.
-- Rockbuster's customer base was distributed across multiple international markets.
-- Customer volume and customer payment activity provided two complementary measures for evaluating potential streaming markets.
+- Rockbuster's customers were distributed across multiple international markets.
+- Customer volume and customer value provided useful indicators for evaluating potential streaming markets.
 
-## Recommendations
+## Business Recommendations
 
-### 1. Prioritize Markets with Strong Existing Customer Bases
+### 1. Focus on High-Volume, High-Value Markets
 
-Rockbuster could use its existing customer base to identify markets for the initial streaming launch.
+Rockbuster could use existing customer and payment data to identify cities and regions that combine a large customer base with strong customer value.
 
-Cities with large customer populations provide an established audience that could potentially be converted from the rental business to the streaming service.
+These markets could provide an initial audience for the new streaming service.
 
-### 2. Combine Customer Volume with Customer Value
+### 2. Use Existing Customer Data to Guide Marketing
 
-Customer population alone does not provide a complete picture of market potential.
+Marketing resources could be concentrated in regions where Rockbuster already has a substantial customer base.
 
-Rockbuster should consider both the size of the customer base and payment activity when evaluating potential launch markets.
+Existing customers represent a potential audience for transitioning from the rental business to the new streaming service.
 
-### 3. Give Particular Attention to India
+### 3. Evaluate India as an Initial Market
 
-India stood out across multiple measures in this analysis.
+India stood out across multiple measures in the analysis.
 
 It had the highest overall customer count, five of the ten cities with the highest customer counts, and three of the five highest-paying customers.
 
-These findings indicate that India warrants particular consideration when evaluating early streaming investments and marketing efforts.
+These findings identify India as an important market for further consideration when planning the streaming launch.
 
-### 4. Consider City-Level Expansion Opportunities
+### 4. Evaluate Cities Individually
 
-After identifying initial markets, Rockbuster could use city-level customer data to evaluate additional locations for future expansion.
+Country-level analysis alone does not provide the complete picture.
 
-This approach would allow the company to move beyond broad country-level comparisons and identify specific markets with established customer demand.
+Examining customer distribution at the city level can help identify specific markets where a streaming launch or marketing campaign could be concentrated.
 
 ### 5. Account for the International Customer Base
 
-Rockbuster's customers are distributed across countries with multiple languages and regional markets.
+Rockbuster's customers were distributed across countries with different languages and geographic markets.
 
-The streaming strategy should therefore account for the international nature of the customer base when developing marketing, customer communications, and market-specific strategies.
+A streaming strategy should therefore consider localization, marketing, and customer communication needs when expanding across international markets.
 
 ## Conclusion
 
-The analysis demonstrates how SQL can be used to examine relational customer and payment data and translate those findings into potential business decisions.
+The Rockbuster analysis demonstrates how SQL can be used to transform relational business data into information that supports strategic decision-making.
 
-India emerged as a particularly important market across multiple measures, including overall customer volume, city-level customer concentration, and the location of high-paying customers.
+By examining customer distribution by country and city alongside individual customer payment data, the analysis identified geographic markets and customer segments that could be considered when planning the company's streaming launch.
 
-More broadly, the project shows the value of examining business data at multiple levels—country, city, and individual customer—to develop a more complete understanding of potential markets.
+India emerged as an important market across several measures, while the broader international distribution of customers highlighted the need to consider multiple geographic markets.
 
 ## Lessons Learned
 
-This project strengthened my ability to use SQL to explore relational business data and answer business questions through structured analysis.
+This project strengthened my ability to use SQL to explore and analyze relational business data.
 
-It also reinforced the importance of examining data at multiple geographic and customer levels rather than relying on a single metric.
+It also reinforced the importance of examining data at multiple levels—country, city, and individual customer—to identify patterns that may not be apparent from a single metric.
 
-Finally, using Tableau to visualize the SQL findings helped me communicate geographic and customer patterns in a format that could support business decision-making.
+Finally, combining SQL analysis with Tableau visualization demonstrated how technical analysis can be translated into clear, business-focused insights.
+
+## Project Repository
+
+The SQL queries and project files are available in my GitHub portfolio.
 
 ## Full Tableau Presentation
 
