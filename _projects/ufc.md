@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: UFC Fight Analysis
 description: Python analysis of UFC fight statistics using correlation analysis, linear regression, clustering, and time-series techniques to explore factors associated with fighter performance.
